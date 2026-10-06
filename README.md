@@ -1,18 +1,15 @@
-### Hi there 👋
+### Hi, I'm Fladio 👋
 
-## Welcome to the graveyard of my unfinished project
+Developer from Bandung, Indonesia. React & React Native at heart, full-stack by necessity. Currently at [kima.one](https://kima.one).
 
-<!--
-**FladioArmandika/FladioArmandika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the graveyard of my unfinished projects. A few made it out alive, and they're pinned below.
 
-Here are some ideas to get you started:
+**Right now** I'm building [Meta-Quip](https://www.meta-quip.com), a marketplace for industrial machinery and spare parts: a Next.js storefront, a React admin dashboard and a GraphQL API, running on MySQL and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools I reach for
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,graphql,mysql,aws,cloudflare&perline=11" alt="TypeScript, JavaScript, React, Next.js, Vite, Tailwind, Node.js, GraphQL, MySQL, AWS, Cloudflare" />
+</p>
+
+#### Find me
+[fladioarmandika.com](https://fladioarmandika.com) · [@fladioarmandika](https://x.com/fladioarmandika) · [fladioarmandika@gmail.com](mailto:fladioarmandika@gmail.com)

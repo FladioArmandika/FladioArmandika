@@ -4,7 +4,6 @@ Developer from Bandung, Indonesia. React & React Native at heart, full-stack by 
 
 Welcome to the graveyard of my unfinished projects. A few made it out alive, and they're pinned below.
 
-**Right now** I'm building [Meta-Quip](https://www.meta-quip.com), a marketplace for industrial machinery and spare parts: a Next.js storefront, a React admin dashboard and a GraphQL API, running on MySQL and AWS.
 
 #### Tools I reach for
 <p>
